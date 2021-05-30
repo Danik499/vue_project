@@ -1,0 +1,22 @@
+.container {
+    position: relative;
+    height: 10vh;
+  }
+  
+  .navbar {
+    height: 100%;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  
+  .nav-items {
+    width: 50%;
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .nav-link {
+    text-decoration: none;
+  }
